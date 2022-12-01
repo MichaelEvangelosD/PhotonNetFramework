@@ -1,8 +1,8 @@
 ﻿using Photon.Pun;
 using UnityEngine;
 using UnityEngine.UI;
+
 using Photon.Realtime;
-using System.Collections.Generic;
 
 public class NetworkManager : MonoBehaviourPunCallbacks
 {
